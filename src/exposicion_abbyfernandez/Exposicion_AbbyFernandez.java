@@ -8,6 +8,7 @@ package exposicion_abbyfernandez;
  *
  * @author afern
  */
+import java.util.Scanner;
 public class Exposicion_AbbyFernandez {
 
     /**
@@ -15,6 +16,9 @@ public class Exposicion_AbbyFernandez {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        Scanner sc=new Scanner(System.in);
+        
+        
     }
     
 }
